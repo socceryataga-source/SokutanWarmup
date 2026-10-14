@@ -339,7 +339,7 @@
   {
     "no": 536,
     "en": "split",
-    "ja": "【他】を分ける《into》　【自】分裂する　【名】分裂；裂け目《in》　split＞split",
+    "ja": "【他】を分ける《into》　【自】分裂する　【名】分裂；裂け目《in》",
     "sentence": "We ( ) the bill between us.",
     "translation": "私たちは勘定を折半した。",
     "answer": "split",
@@ -886,7 +886,7 @@
   {
     "no": 593,
     "en": "overcome",
-    "ja": "【他】を克服する；に勝つ overcame > overcome",
+    "ja": "【他】を克服する；に勝つ",
     "sentence": "You can ( ) fears with practice.",
     "translation": "練習で恐怖を克服できる。",
     "answer": "overcome",
@@ -895,7 +895,7 @@
   {
     "no": 594,
     "en": "overtake",
-    "ja": "【他】を追い越す；を上回る overtook > overtaken",
+    "ja": "【他】を追い越す；を上回る",
     "sentence": "He ran so fast that he ( ) all the other runners.",
     "translation": "彼はとても速く走ったので，他のランナー全員を追い越した。",
     "answer": "overtook",
