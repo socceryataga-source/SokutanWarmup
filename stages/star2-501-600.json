@@ -1,0 +1,962 @@
+[
+  {
+    "no": 501,
+    "en": "tie",
+    "ja": "【名】つながり；ネクタイ；同点　【他】を結ぶ；をつなぐ",
+    "sentence": "Life satisfaction is closely ( ) to health.",
+    "translation": "人生の満足度は健康と密接に関係している。",
+    "answer": "tied",
+    "accept": [
+      "tie"
+    ]
+  },
+  {
+    "no": 502,
+    "en": "characteristic",
+    "ja": "【名】【形】特徴（的な）《of》",
+    "sentence": "One of the ( ) of a successful business person is a willingness to take risks.",
+    "translation": "成功する実業家の特徴の1つは進んでリスクを取ることだ。",
+    "answer": "characteristics",
+    "accept": [
+      "characteristic"
+    ]
+  },
+  {
+    "no": 503,
+    "en": "edible",
+    "ja": "【形】食べることのできる；食用の",
+    "sentence": "In the woodlands there are many ( ) mushrooms.",
+    "translation": "森林地帯にはたくさんの食用のキノコがある。",
+    "answer": "edible",
+    "accept": []
+  },
+  {
+    "no": 504,
+    "en": "birth",
+    "ja": "【名】誕生",
+    "sentence": "Please fill in your date of ( ).",
+    "translation": "あなたの誕生日を記入してください。",
+    "answer": "birth",
+    "accept": []
+  },
+  {
+    "no": 505,
+    "en": "meantime",
+    "ja": "【名】その間",
+    "sentence": "In the ( ) I will do my homework.",
+    "translation": "私はその間に宿題をします。",
+    "answer": "meantime",
+    "accept": []
+  },
+  {
+    "no": 506,
+    "en": "guard",
+    "ja": "【他】を守る；を見張る　【名】警備（員）",
+    "sentence": "They have a dog to ( ) the house when they are away.",
+    "translation": "彼らは留守の間，家を守るために犬を飼っている。",
+    "answer": "guard",
+    "accept": []
+  },
+  {
+    "no": 507,
+    "en": "secure",
+    "ja": "【形】安全な；安定した　【他】〈物〉を確保する；を守る",
+    "sentence": "I want to ( ) enough money to buy my own house.",
+    "translation": "自分の家を買うために十分なお金を確保したい。",
+    "answer": "secure",
+    "accept": []
+  },
+  {
+    "no": 508,
+    "en": "offend",
+    "ja": "【他】の気分を害する　【自】罪を犯す",
+    "sentence": "Your comments really ( ) her, so you should say sorry.",
+    "translation": "あなたの発言は本当に彼女を怒らせたから，謝った方がいい。",
+    "answer": "offended",
+    "accept": [
+      "offend"
+    ]
+  },
+  {
+    "no": 509,
+    "en": "healthcare",
+    "ja": "【名】健康管理；医療",
+    "sentence": "This ( ) app is useful for recording your state of health.",
+    "translation": "この健康管理アプリは健康状態を記録するのに便利だ。",
+    "answer": "healthcare",
+    "accept": []
+  },
+  {
+    "no": 510,
+    "en": "mammal",
+    "ja": "【名】哺乳動物，哺乳類",
+    "sentence": "All ( ) feed their babies on milk.",
+    "translation": "すべての哺乳類は赤ちゃんに乳を与える。",
+    "answer": "mammals",
+    "accept": [
+      "mammal"
+    ]
+  },
+  {
+    "no": 511,
+    "en": "harvest",
+    "ja": "【名】収穫（物）；収穫期　【他】を収穫する",
+    "sentence": "Farmers usually ( ) their rice in September or October.",
+    "translation": "農家は通常9月か10月に米を収穫する。",
+    "answer": "harvest",
+    "accept": []
+  },
+  {
+    "no": 512,
+    "en": "liver",
+    "ja": "【名】肝臓",
+    "sentence": "Drinking too much alcohol will damage your ( ).",
+    "translation": "アルコールを飲み過ぎると肝臓を傷めるだろう。",
+    "answer": "liver",
+    "accept": []
+  },
+  {
+    "no": 513,
+    "en": "none",
+    "ja": "【代】〈先行する名詞を受けて〉どれも〔誰も〕…ない；《～ of A》〈A（＝3者以上）のうち〉誰も…ない",
+    "sentence": "( ) of the students failed the test.",
+    "translation": "試験に落ちた学生は１人もいなかった。",
+    "answer": "None",
+    "accept": []
+  },
+  {
+    "no": 514,
+    "en": "nor",
+    "ja": "【接】《nor＋助動詞〔be動詞〕＋S》Sもまた…ない",
+    "sentence": "I drink neither tea ( ) coffee.",
+    "translation": "私は紅茶もコーヒーも飲まない。",
+    "answer": "nor",
+    "accept": []
+  },
+  {
+    "no": 515,
+    "en": "elsewhere",
+    "ja": "【副】どこか他の所で",
+    "sentence": "Her song is famous in Japan and ( ). ",
+    "translation": "彼女の歌は日本でもその他の地域でも有名だ。",
+    "answer": "elsewhere",
+    "accept": []
+  },
+  {
+    "no": 516,
+    "en": "victim",
+    "ja": "【名】犠牲者，被害者",
+    "sentence": "The ( ) were satisfied when the thief was sent to prison.",
+    "translation": "泥棒が刑務所に送られた時，被害者たちは満足した。",
+    "answer": "victims",
+    "accept": [
+      "victim"
+    ]
+  },
+  {
+    "no": 517,
+    "en": "toll",
+    "ja": "【名】犠牲者；死傷者数；通行料",
+    "sentence": "The death ( ) from the accident rose to 50.",
+    "translation": "その事故の死亡者数は50人にのぼった。",
+    "answer": "toll",
+    "accept": []
+  },
+  {
+    "no": 518,
+    "en": "sacrifice",
+    "ja": "【他】を犠牲にする　【名】犠牲",
+    "sentence": "The soldiers ( ) their lives for their country.",
+    "translation": "兵士たちは国のために命を犠牲にした。",
+    "answer": "sacrificed",
+    "accept": [
+      "sacrifice"
+    ]
+  },
+  {
+    "no": 519,
+    "en": "shortage",
+    "ja": "【名】不足",
+    "sentence": "The labor ( ) is very acute in this country.",
+    "translation": "この国では労働力不足が非常に深刻だ。",
+    "answer": "shortage",
+    "accept": []
+  },
+  {
+    "no": 520,
+    "en": "scarce",
+    "ja": "【形】不足して，乏しい",
+    "sentence": "Diamonds are very ( ). That is why they are so valuable.",
+    "translation": "ダイヤモンドはとても希少だ。だからこそ非常に価値がある。",
+    "answer": "scarce",
+    "accept": []
+  },
+  {
+    "no": 521,
+    "en": "curious",
+    "ja": "【形】〈人が〉好奇心の強い《about》；〈物が〉奇妙な",
+    "sentence": "I am ( ) about your background.",
+    "translation": "私はあなたの経歴に興味がある。",
+    "answer": "curious",
+    "accept": []
+  },
+  {
+    "no": 522,
+    "en": "ape",
+    "ja": "【名】類人猿",
+    "sentence": "This article says that ( ) are not found in Europe.",
+    "translation": "この記事によるとヨーロッパに類人猿はいないとのことだ。",
+    "answer": "apes",
+    "accept": [
+      "ape"
+    ]
+  },
+  {
+    "no": 523,
+    "en": "primate",
+    "ja": "【名】霊長類の動物",
+    "sentence": "Monkeys, apes and humans are all ( ).",
+    "translation": "サルも類人猿も人間もみな霊長類である。",
+    "answer": "primates",
+    "accept": [
+      "primate"
+    ]
+  },
+  {
+    "no": 524,
+    "en": "plenty",
+    "ja": "【名】たくさん，十分",
+    "sentence": "There is ( ) to eat, so don't worry about being hungry.",
+    "translation": "食べるものはたくさんあるので，空腹を心配する必要はない。",
+    "answer": "plenty",
+    "accept": []
+  },
+  {
+    "no": 525,
+    "en": "convenient",
+    "ja": "【形】〈時間・場所・物が〉都合のよい；便利な",
+    "sentence": "What time is ( ) for you to meet me?",
+    "translation": "会うのは何時が都合がよいですか。",
+    "answer": "convenient",
+    "accept": []
+  },
+  {
+    "no": 526,
+    "en": "helpful",
+    "ja": "【形】親切な；役に立つ",
+    "sentence": "He gave me some really ( ) advice about university.",
+    "translation": "彼は大学について実に役に立つアドバイスをくれた。",
+    "answer": "helpful",
+    "accept": []
+  },
+  {
+    "no": 527,
+    "en": "discrimination",
+    "ja": "【名】《に対する》差別《against》；区別",
+    "sentence": "Many women working in Japan complain about sexual ( ) in the office.",
+    "translation": "日本で働く多くの女性が，職場での性的差別について不満を漏らしている。",
+    "answer": "discrimination",
+    "accept": []
+  },
+  {
+    "no": 528,
+    "en": "previous",
+    "ja": "【形】〈時間・順序が〉前の",
+    "sentence": "We will begin by reviewing the ( ) lesson.",
+    "translation": "前の授業の復習から始めます。",
+    "answer": "previous",
+    "accept": []
+  },
+  {
+    "no": 529,
+    "en": "afford",
+    "ja": "【他】《can》を買う〔持つ〕余裕がある；〈機会など〉を与える",
+    "sentence": "I have no money so I can't ( ) a new car.",
+    "translation": "私はお金がないので新しい車を買う余裕がない。",
+    "answer": "afford",
+    "accept": []
+  },
+  {
+    "no": 530,
+    "en": "wealthy",
+    "ja": "【形】裕福な；豊富な",
+    "sentence": "He comes from a very ( ) family.",
+    "translation": "彼はとても裕福な家庭の出身だ。",
+    "answer": "wealthy",
+    "accept": []
+  },
+  {
+    "no": 531,
+    "en": "servant",
+    "ja": "【名】召使い",
+    "sentence": "He was very rich, so he had ( ) to look after him.",
+    "translation": "彼はとても裕福だったので，彼の世話をする使用人がいた。",
+    "answer": "servants",
+    "accept": [
+      "servant"
+    ]
+  },
+  {
+    "no": 532,
+    "en": "slave",
+    "ja": "【名】奴隷；《～に》とりつかれた人《to》",
+    "sentence": "The island's population are the descendants of freed ( ).",
+    "translation": "この島の住民は解放された奴隷の子孫だ。",
+    "answer": "slaves",
+    "accept": [
+      "slave"
+    ]
+  },
+  {
+    "no": 533,
+    "en": "definition",
+    "ja": "【名】定義",
+    "sentence": "I can't understand the ( ) of the word that is in the dictionary.",
+    "translation": "辞書に載っている言葉の定義がわかりません。",
+    "answer": "definition",
+    "accept": []
+  },
+  {
+    "no": 534,
+    "en": "define",
+    "ja": "【他】を定義する；を明瞭に示す；を決定づける",
+    "sentence": "How does the dictionary ( ) this word?",
+    "translation": "辞書はこの単語をどのように定義していますか。",
+    "answer": "define",
+    "accept": []
+  },
+  {
+    "no": 535,
+    "en": "divide",
+    "ja": "【他】を分割する；を分配する（⇔unite）　【名】隔たり",
+    "sentence": "They ( ) the prize money among the team members.",
+    "translation": "彼らはチームメンバーの間で賞金を分配した。",
+    "answer": "divided",
+    "accept": [
+      "divide"
+    ]
+  },
+  {
+    "no": 536,
+    "en": "split",
+    "ja": "【他】を分ける《into》　【自】分裂する　【名】分裂；裂け目《in》　split＞split",
+    "sentence": "We ( ) the bill between us.",
+    "translation": "私たちは勘定を折半した。",
+    "answer": "split",
+    "accept": []
+  },
+  {
+    "no": 537,
+    "en": "poison",
+    "ja": "【名】毒（物）",
+    "sentence": "The chemical can be ( ) to the human body under certain conditions.",
+    "translation": "その化学物質は特定の条件下で人体にとって毒になり得る。",
+    "answer": "poison",
+    "accept": []
+  },
+  {
+    "no": 538,
+    "en": "carefully",
+    "ja": "【副】注意深く",
+    "sentence": "He ( ) opened the door so as not to wake the sleeping child.",
+    "translation": "彼は寝ている子供を起こさないように注意深くドアを開けた。",
+    "answer": "carefully",
+    "accept": []
+  },
+  {
+    "no": 539,
+    "en": "alcohol",
+    "ja": "【名】アルコール；酒",
+    "sentence": "The chocolate contains a little ( ).",
+    "translation": "そのチョコレートは少量のアルコールを含んでいる。",
+    "answer": "alcohol",
+    "accept": []
+  },
+  {
+    "no": 540,
+    "en": "addict",
+    "ja": "【名】中毒者　【他】《be -ed》中毒である",
+    "sentence": "Some teenagers are ( ) to social media.",
+    "translation": "10代の若者の中にはSNS中毒な人もいる。",
+    "answer": "addicted",
+    "accept": [
+      "addict"
+    ]
+  },
+  {
+    "no": 541,
+    "en": "independent",
+    "ja": "【形】独立した；関係がない《of》",
+    "sentence": "These two factors are ( ) of each other.",
+    "translation": "これら2つの要因は互いに無関係である。",
+    "answer": "independent",
+    "accept": []
+  },
+  {
+    "no": 542,
+    "en": "efficient",
+    "ja": "【形】効率的な；有能な",
+    "sentence": "This is an ( ) way to manage data.",
+    "translation": "これがデータを管理するのに効率的な方法だ。",
+    "answer": "efficient",
+    "accept": []
+  },
+  {
+    "no": 543,
+    "en": "mask",
+    "ja": "【他】〈事実・感情など〉を隠す　【名】仮面",
+    "sentence": "She used a spray to ( ) the smell of the dogs.",
+    "translation": "彼女は犬の臭いを隠すためにスプレーを使った。",
+    "answer": "mask",
+    "accept": []
+  },
+  {
+    "no": 544,
+    "en": "false",
+    "ja": "【形】間違っている，偽の",
+    "sentence": "We sometimes draw ( ) conclusions based on limited information.",
+    "translation": "我々は時に限られた情報に基づいた誤った結論を導くことがある。",
+    "answer": "false",
+    "accept": []
+  },
+  {
+    "no": 545,
+    "en": "fault",
+    "ja": "【名】誤り；欠陥；欠点；《one's》責任〈不可算〉",
+    "sentence": "It is your ( ) that we are late.",
+    "translation": "私たちが遅れたのは君の責任だ。",
+    "answer": "fault",
+    "accept": []
+  },
+  {
+    "no": 546,
+    "en": "surround",
+    "ja": "【他】を囲む；を伴う",
+    "sentence": "The house is ( ) by a lot of rose trees.",
+    "translation": "その家はたくさんのバラの木に囲まれている。",
+    "answer": "surrounded",
+    "accept": [
+      "surround"
+    ]
+  },
+  {
+    "no": 547,
+    "en": "slightly",
+    "ja": "【副】わずかに",
+    "sentence": "He solved the problem using a ( ) different approach.",
+    "translation": "彼はわずかに違う方法を使ってその問題を解決した。",
+    "answer": "slightly",
+    "accept": []
+  },
+  {
+    "no": 548,
+    "en": "dislike",
+    "ja": "【他】を嫌う　【名】嫌悪",
+    "sentence": "I ( ) being alone and having nothing to do.",
+    "translation": "私は１人で何もすることがないのが嫌いだ。",
+    "answer": "dislike",
+    "accept": []
+  },
+  {
+    "no": 549,
+    "en": "variation",
+    "ja": "【名】変異；変化；差異；多様性",
+    "sentence": "There is a great deal of ( ) in the students' level of English.",
+    "translation": "学生の英語のレベルには大きな差異がある。",
+    "answer": "variation",
+    "accept": []
+  },
+  {
+    "no": 550,
+    "en": "differ",
+    "ja": "【自】《～の点で/～とは》異なる《in/from》",
+    "sentence": "Osaka and Tokyo ( ) in many ways.",
+    "translation": "大阪と東京は多くの点で異なる。",
+    "answer": "differ",
+    "accept": []
+  },
+  {
+    "no": 551,
+    "en": "partly",
+    "ja": "【副】部分的に；一部分（は）",
+    "sentence": "You are ( ) correct but not 100%.",
+    "translation": "君は部分的には正しいが，100％正しいわけではない。",
+    "answer": "partly",
+    "accept": []
+  },
+  {
+    "no": 552,
+    "en": "partially",
+    "ja": "【副】不完全に；部分的に",
+    "sentence": "The answer was only ( ) correct.",
+    "translation": "答えはほんの部分的にしか正しくなかった。",
+    "answer": "partially",
+    "accept": []
+  },
+  {
+    "no": 553,
+    "en": "gender",
+    "ja": "【名】〈社会的・文化的〉性（差）",
+    "sentence": "The ( ) difference in wages is still very high.",
+    "translation": "賃金における性差はまだ非常に大きい。",
+    "answer": "gender",
+    "accept": []
+  },
+  {
+    "no": 554,
+    "en": "sex",
+    "ja": "【名】性（別）",
+    "sentence": "Either ( ) can use these toilets.",
+    "translation": "このトイレはどちらの性別でも使える。",
+    "answer": "sex",
+    "accept": []
+  },
+  {
+    "no": 555,
+    "en": "bias",
+    "ja": "【名】偏見；（悪い）先入観《against》",
+    "sentence": "Our preferences are often influenced by unconscious ( ).",
+    "translation": "私たちの好みはしばしば無意識の偏見の影響を受ける。",
+    "answer": "biases",
+    "accept": [
+      "bias"
+    ]
+  },
+  {
+    "no": 556,
+    "en": "prejudice",
+    "ja": "【名】偏見；先入観《against》",
+    "sentence": "We should judge a person without racial ( ).",
+    "translation": "私たちは人種的偏見をもたずに人を評価しなければならない。",
+    "answer": "prejudice",
+    "accept": []
+  },
+  {
+    "no": 557,
+    "en": "stereotype",
+    "ja": "【名】固定観念",
+    "sentence": "This is a ( ) of the typical Japanese office worker.",
+    "translation": "これは典型的な日本の会社員の固定観念だ。",
+    "answer": "stereotype",
+    "accept": []
+  },
+  {
+    "no": 558,
+    "en": "deeply",
+    "ja": "【副】非常に；深く",
+    "sentence": "He fell ( ) in love with a girl in school.",
+    "translation": "彼は学校の女の子と深く恋に落ちた。",
+    "answer": "deeply",
+    "accept": []
+  },
+  {
+    "no": 559,
+    "en": "shallow",
+    "ja": "【形】浅い；浅はかな",
+    "sentence": "The river is very ( ) here, so it is easy to walk across.",
+    "translation": "ここは川がとても浅いので歩いて渡るのは簡単だ。",
+    "answer": "shallow",
+    "accept": []
+  },
+  {
+    "no": 560,
+    "en": "root",
+    "ja": "【名】根；根源　【他】《be –ed》定着して；を根付かせる",
+    "sentence": "The problem is deeply ( ) in the history of the region.",
+    "translation": "その問題はその地域の歴史に深く根ざしている。",
+    "answer": "rooted",
+    "accept": [
+      "root"
+    ]
+  },
+  {
+    "no": 561,
+    "en": "pin",
+    "ja": "【他】をピンで留める；を組み伏せる",
+    "sentence": "It is difficult to ( ) down the exact cause of the problem.",
+    "translation": "その問題の正確な原因を突き止めるのは難しい。",
+    "answer": "pin",
+    "accept": []
+  },
+  {
+    "no": 562,
+    "en": "occupy",
+    "ja": "【他】を占める；を占領する",
+    "sentence": "My hobbies ( ) most of my free time.",
+    "translation": "趣味が私の自由時間のほとんどを占めている。",
+    "answer": "occupy",
+    "accept": []
+  },
+  {
+    "no": 563,
+    "en": "resemble",
+    "ja": "【他】に似ている",
+    "sentence": "He ( ) his father in many ways.",
+    "translation": "彼は多くの点で父親に似ている。",
+    "answer": "resembles",
+    "accept": [
+      "resemble"
+    ]
+  },
+  {
+    "no": 564,
+    "en": "perception",
+    "ja": "【名】認識；知覚",
+    "sentence": "The Internet has changed people's ( ) of the world.",
+    "translation": "インターネットは人々の世界に対する認識を変えた。",
+    "answer": "perception",
+    "accept": []
+  },
+  {
+    "no": 565,
+    "en": "ballet",
+    "ja": "【名】バレエ",
+    "sentence": "My daughter took ( ) lessons every Friday evening.",
+    "translation": "娘は毎週金曜日の夕方にバレエを習っていた。",
+    "answer": "ballet",
+    "accept": []
+  },
+  {
+    "no": 566,
+    "en": "occasion",
+    "ja": "【名】機会；〈特別な〉行事；場合",
+    "sentence": "On special ( ) my family goes to an Italian restaurant near our house.",
+    "translation": "特別な機会には家族で家の近くのイタリアンレストランに行きます。",
+    "answer": "occasions",
+    "accept": [
+      "occasion"
+    ]
+  },
+  {
+    "no": 567,
+    "en": "reserve",
+    "ja": "【他】を予約する【名】蓄え；遠慮；〈動植物の〉保護区",
+    "sentence": "I ( ) hotel rooms for our holiday in Osaka.",
+    "translation": "大阪での休暇のためにホテルの部屋を予約した。",
+    "answer": "reserved",
+    "accept": [
+      "reserve"
+    ]
+  },
+  {
+    "no": 568,
+    "en": "cancel",
+    "ja": "【他】を取り消す；を中止する",
+    "sentence": "The lesson was ( ) because our teacher was sick.",
+    "translation": "先生が病気のため，レッスンが中止された。",
+    "answer": "canceled",
+    "accept": [
+      "cancel"
+    ]
+  },
+  {
+    "no": 569,
+    "en": "excite",
+    "ja": "【他】を興奮させる",
+    "sentence": "I was so ( ) before the concert.",
+    "translation": "私はコンサートの前にとても興奮していた。",
+    "answer": "excited",
+    "accept": [
+      "excite"
+    ]
+  },
+  {
+    "no": 570,
+    "en": "somewhat",
+    "ja": "【副】いくぶん",
+    "sentence": " I was ( ) surprised to hear that you had changed schools.",
+    "translation": "あなたが転校したと聞いていくぶん驚いた。",
+    "answer": "somewhat",
+    "accept": []
+  },
+  {
+    "no": 571,
+    "en": "lean",
+    "ja": "【自】寄りかかる　【形】〈筋肉質で〉やせた",
+    "sentence": "I waited for him for about 10 minutes, ( ) against a tree.",
+    "translation": "私は木に寄りかかりながら，彼を10分ほど待った。",
+    "answer": "leaning",
+    "accept": [
+      "lean"
+    ]
+  },
+  {
+    "no": 572,
+    "en": "thin",
+    "ja": "【形】薄い；細い；〈病気などで〉やせた",
+    "sentence": "There was a ( ) layer of ice on the pond.",
+    "translation": "池には薄い氷の層が張っていた。",
+    "answer": "thin",
+    "accept": []
+  },
+  {
+    "no": 573,
+    "en": "puzzle",
+    "ja": "【他】を困らせる，を戸惑わせる　【名】難問；パズル",
+    "sentence": "The problem ( ) me for a while until I saw the answer.",
+    "translation": "答えを見るまで，この問題はしばらく私の頭を悩ませた。",
+    "answer": "puzzled",
+    "accept": [
+      "puzzle"
+    ]
+  },
+  {
+    "no": 574,
+    "en": "gap",
+    "ja": "【名】すき間；〈時間的〉空白；〈人･物･考えの〉隔たり",
+    "sentence": "Be careful of the ( ) between the train and the platform.",
+    "translation": "電車とホームのすき間に気をつけて。",
+    "answer": "gap",
+    "accept": []
+  },
+  {
+    "no": 575,
+    "en": "otherwise",
+    "ja": "【副】そうでなければ；他の点では；別のやり方で",
+    "sentence": "You should study hard, ( ) you won't pass the test.",
+    "translation": "一生懸命勉強すべきだ。さもなければ試験に合格できないだろう。",
+    "answer": "otherwise",
+    "accept": []
+  },
+  {
+    "no": 576,
+    "en": "mayor",
+    "ja": "【名】市長",
+    "sentence": "The city has elected a new ( ).",
+    "translation": "市は新しい市長を選出した。",
+    "answer": "mayor",
+    "accept": []
+  },
+  {
+    "no": 577,
+    "en": "pose",
+    "ja": "【他】をもたらす；〈問題〉を提起する　【自】ポーズをとる",
+    "sentence": "The product will ( ) a threat to the earth in the future.",
+    "translation": "その製品は，将来地球に脅威をもたらすだろう。",
+    "answer": "pose",
+    "accept": []
+  },
+  {
+    "no": 578,
+    "en": "rank",
+    "ja": "【他】を位置づける　【名】階級；地位",
+    "sentence": "The soccer team is ( ) third in the world.",
+    "translation": "そのサッカーチームは世界３位にランクされている。",
+    "answer": "ranked",
+    "accept": [
+      "rank"
+    ]
+  },
+  {
+    "no": 579,
+    "en": "reform",
+    "ja": "【他】を改革〔改善〕する　【名】改革",
+    "sentence": "The government has introduced ( ) to the banking sector.",
+    "translation": "政府は銀行部門に改革を導入した。",
+    "answer": "reforms",
+    "accept": [
+      "reform"
+    ]
+  },
+  {
+    "no": 580,
+    "en": "thoroughly",
+    "ja": "【副】徹底的に；完全に",
+    "sentence": "He cleaned his apartment ( ) before his mother visited.",
+    "translation": "彼は母親が訪ねてくる前にアパートを徹底的に掃除した。",
+    "answer": "thoroughly",
+    "accept": []
+  },
+  {
+    "no": 581,
+    "en": "altogether",
+    "ja": "【副】完全に；〈比較級などを強調して〉まったく；〈文修飾〉要するに；合計して",
+    "sentence": "That's not ( ) untrue.",
+    "translation": "それはまったく間違いというわけではない。",
+    "answer": "altogether",
+    "accept": []
+  },
+  {
+    "no": 582,
+    "en": "compensate",
+    "ja": "【自】《～の》補償をする；埋め合わせる《for》",
+    "sentence": "Do you think knowledge ( ) for a lack of experience?",
+    "translation": "知識は経験不足を補うと思いますか。",
+    "answer": "compensates",
+    "accept": [
+      "compensate"
+    ]
+  },
+  {
+    "no": 583,
+    "en": "supplement",
+    "ja": "【名】補足；栄養補助食品　【他】を補う",
+    "sentence": "The comedian ( ) his income with part-time jobs.",
+    "translation": "その芸人はアルバイトで自分の収入を補っている。",
+    "answer": "supplements",
+    "accept": [
+      "supplement"
+    ]
+  },
+  {
+    "no": 584,
+    "en": "opposite",
+    "ja": "【名】正反対の人〔物事〕　【形】反対（側）の　【前】の向かい側に",
+    "sentence": "The building is on the ( ) side of the road.",
+    "translation": "その建物は道路の向かい側にある。",
+    "answer": "opposite",
+    "accept": []
+  },
+  {
+    "no": 585,
+    "en": "protest",
+    "ja": "【名】抗議；主張　【自】《～に》抗議する《against》",
+    "sentence": "The students organized a meeting to ( ) against the policy of the university.",
+    "translation": "学生たちは大学の方針に抗議するために集会を開いた。",
+    "answer": "protest",
+    "accept": []
+  },
+  {
+    "no": 586,
+    "en": "resist",
+    "ja": "【自】【他】抵抗する；〈通例否定文で〉我慢する",
+    "sentence": "I couldn't ( ) the temptation to watch the video.",
+    "translation": "その動画を見たいという誘惑に我慢できなかった。",
+    "answer": "resist",
+    "accept": []
+  },
+  {
+    "no": 587,
+    "en": "hostile",
+    "ja": "【形】敵意を持った；〈環境などが〉厳しい",
+    "sentence": "Some of the team members are ( ) to the new coach.",
+    "translation": "チームメンバーの中には新しいコーチに敵意をもつ者もいる。",
+    "answer": "hostile",
+    "accept": []
+  },
+  {
+    "no": 588,
+    "en": "pursue",
+    "ja": "【他】を追い求める；を追跡する",
+    "sentence": "The police ( ) the thieves into the shopping center.",
+    "translation": "警察はショッピングセンターまで窃盗団を追跡した。",
+    "answer": "pursued",
+    "accept": [
+      "pursue"
+    ]
+  },
+  {
+    "no": 589,
+    "en": "trace",
+    "ja": "【他】を追跡する；を見つけ出す　【名】（形）跡",
+    "sentence": "I managed to ( ) my family history back over 300 years.",
+    "translation": "私は自分の家族の歴史を300年以上前まで何とかたどることができた。",
+    "answer": "trace",
+    "accept": []
+  },
+  {
+    "no": 590,
+    "en": "chase",
+    "ja": "【自】【他】【名】追跡（する）",
+    "sentence": "The dog ( ) the cat along the road.",
+    "translation": "犬は道路に沿って猫を追いかけた。",
+    "answer": "chased",
+    "accept": [
+      "chase"
+    ]
+  },
+  {
+    "no": 591,
+    "en": "trail",
+    "ja": "【名】跡；小道　【他】〈痕跡を追って〉を追跡する",
+    "sentence": "Ants use pheromones to mark their ( ).",
+    "translation": "アリはフェロモンを使って跡をつける。",
+    "answer": "trail",
+    "accept": []
+  },
+  {
+    "no": 592,
+    "en": "freely",
+    "ja": "【副】自由に",
+    "sentence": "The young boy moved ( ) around the mall.",
+    "translation": "少年はショッピングモールを自由に動き回った。",
+    "answer": "freely",
+    "accept": []
+  },
+  {
+    "no": 593,
+    "en": "overcome",
+    "ja": "【他】を克服する；に勝つ overcame > overcome",
+    "sentence": "You can ( ) fears with practice.",
+    "translation": "練習で恐怖を克服できる。",
+    "answer": "overcome",
+    "accept": []
+  },
+  {
+    "no": 594,
+    "en": "overtake",
+    "ja": "【他】を追い越す；を上回る overtook > overtaken",
+    "sentence": "He ran so fast that he ( ) all the other runners.",
+    "translation": "彼はとても速く走ったので，他のランナー全員を追い越した。",
+    "answer": "overtook",
+    "accept": [
+      "overtake"
+    ]
+  },
+  {
+    "no": 595,
+    "en": "exclusive",
+    "ja": "【形】排他的な；独占的な",
+    "sentence": "The store is offering an ( ) deal on the new computer.",
+    "translation": "この店では新しいコンピューターを限定価格で提供している。",
+    "answer": "exclusive",
+    "accept": []
+  },
+  {
+    "no": 596,
+    "en": "rid",
+    "ja": "【他】を取り除く　【形】がなくなって",
+    "sentence": "I have so much stuff that I want to get ( ) of.",
+    "translation": "処分したいものが非常にたくさんある。",
+    "answer": "rid",
+    "accept": []
+  },
+  {
+    "no": 597,
+    "en": "expertise",
+    "ja": "【名】専門知識，専門的意見",
+    "sentence": "I do not have the necessary ( ) to program the computer.",
+    "translation": "私にはコンピューターをプログラムするのに必要な専門知識がない。",
+    "answer": "expertise",
+    "accept": []
+  },
+  {
+    "no": 598,
+    "en": "ordinary",
+    "ja": "【形】普通の；ありふれた",
+    "sentence": "Everybody thought that he was an ( ) young man.",
+    "translation": "誰もが彼のことを普通の若者だと思っていた。",
+    "answer": "ordinary",
+    "accept": []
+  },
+  {
+    "no": 599,
+    "en": "adolescent",
+    "ja": "【名】青年　【形】青年期の",
+    "sentence": "We experience the most change in our lives when we are ( ).",
+    "translation": "私たちは青年期に，人生で最も大きな変化を経験する。",
+    "answer": "adolescents",
+    "accept": [
+      "adolescent"
+    ]
+  },
+  {
+    "no": 600,
+    "en": "proportion",
+    "ja": "【名】割合；比例；つりあい；部分",
+    "sentence": "A large ( ) of staff need to take the training course.",
+    "translation": "スタッフの大部分がその研修コースを受講する必要がある。",
+    "answer": "proportion",
+    "accept": []
+  }
+]

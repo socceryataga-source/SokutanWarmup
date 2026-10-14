@@ -1,4 +1,4 @@
-// ステージ追加：このリストに { id, title, file } を追記し、対応するJSONを stages/ 内に配置します。
+// 新しいStageを追加する際は、対応するJSONを stages/ に置き、下のリストに1行追加します。
 window.STAGES = [
-  { id: 'sample', title: 'SAMPLE STAGE', file: 'stages/sample.json', description: '動作確認 · 10語' }
+  { id: 'star2-501-600', level: 2, start: 501, end: 600, title: '501–600', file: 'stages/star2-501-600.json' }
 ];
